@@ -1,3 +1,3 @@
 # colorgame
-## Test Using
+## Test 
 https://srinathmerugu.github.io/colorgame/
